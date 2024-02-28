@@ -119,6 +119,7 @@ Jest szansa, na to, że gracze odkryją znak specjalny którego uzyłeś do zmia
 ```
 5. Tworzysz folder assets > minecraft > font i tworzysz plik default.json
 6. Otwierasz go i wklejasz poniższy tekst i zapisujesz:
+```
 {
     "providers": [
         {
@@ -130,6 +131,7 @@ Jest szansa, na to, że gracze odkryją znak specjalny którego uzyłeś do zmia
         }        
     ]
 }
+```
 7. Cofasz się do folderu assets i tworzysz folder o dowolnej nazwie, w moim przypadku to będzie "jakubprefix"
 8. Tworzysz w nim folder "textures" a w nim folder "prefix"
 9. Masz już prawie gotowy Resource Pack, teraz jedynie wystarczy wrzucić textury prefixów do folderu "prefix"
