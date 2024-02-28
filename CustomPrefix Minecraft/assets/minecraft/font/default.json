@@ -6,7 +6,8 @@
             "ascent": 7,
             "height": 7,
             "chars": [""]
-        },        {
+        },
+        {
             "type": "bitmap",
             "file": "jakubprefix:prefix/gracz.png",
             "ascent": 7,
