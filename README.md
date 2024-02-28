@@ -64,10 +64,11 @@ Po zapisaniu zmian restartujemy serwer.
 Teraz jedynie co nam zostało to ustwienie prefixu dla danej wybranej rangi, w tym celu przechodzimy do pliku w naszym Resource Packu: assets/minecraft/font i kopiujemy znak który wcześniej wybraliśmy, teraz go wystarczy wpisać komendę:
 /lp group ranga meta setprefix 101 "&f(znak specjalny) " i gotowe!
 
-![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/0fa8a410-5550-4e22-8760-6f08b8eb3277)
+![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/1291f328-7de8-4757-a6c7-b4ae898eb7b9)
 
 **Pamiętaj, aby przed prefixem był zawsze biały kolor &r/&f, w innym przypadku prefix zostanie zabarwiony:**
-![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/c3d1d8bf-95b4-43f4-aea8-04e349fad4e3)
+![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/811b8223-762e-49eb-9ca0-f4983e28397c)
+
 
 
 # Dodatkowa informacja
