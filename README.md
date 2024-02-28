@@ -126,7 +126,7 @@ Jest szansa, na to, że gracze odkryją znak specjalny którego uzyłeś do zmia
             "file": "(nazwa folderu z punktu 7):prefix/(nazwa rangi z poczatku poradnika.png)",
             "ascent": 7,
             "height": 7,
-            "chars": ["( Niestandardowy znak z strony: https://jrgraphix.net/r/Unicode/E000-F8FF )"]
+            "chars": [" Niestandardowy znak z strony podanej wyżej "]
         }        
     ]
 }
