@@ -49,7 +49,7 @@ Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ci
 # Na czym polegają linie: "ascent", oraz "height"?
 
 
-Odpowiadają one za wielkość wyświetlanego obrazu (zalecana wartośc 7/8)
+Odpowiadają one za wielkość wyświetlanego obrazu (zalecana wartość 7/8)
 
 Domyślna wartość w moim Resource Packu:
 
@@ -62,7 +62,7 @@ Zmieniona wartośc na
 
 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/c8167cdf-6c63-4089-9fab-c6cbacc59e2f)
 
-(Pamiętaj, aby nie robić zbyt dużej przepaści między nimi: przykładowo nie "ascent" nie może być ustawione na 10, gdy "height" jest ustawione na 6 )
+(Pamiętaj, aby nie robić zbyt dużej przepaści między nimi: przykładowo "ascent" nie może być ustawione na 10, gdy "height" jest ustawione na 6 )
 Gdy wartośc ma zbyt dużą przepaść między sobą textura zostaje usunięta:
 
 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/d92c7ae7-23c8-4dc7-b5ca-35c7cf94e2b4)
