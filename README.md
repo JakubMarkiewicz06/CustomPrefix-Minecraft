@@ -55,7 +55,7 @@ Domyślna wartość w moim Resource Packu:
 
 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/c5b7cf9b-d69a-431d-a96d-a1ea93b8f6dc)
 
-Zmieniona wartośc na 
+Zmieniona wartość na 
 
 "ascent": 10
 "height": 12
