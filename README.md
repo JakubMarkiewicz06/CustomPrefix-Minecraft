@@ -35,7 +35,8 @@ Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ci
             "ascent": 7,
             "height": 7,
             "chars": [""]
-        },        {
+        },
+        {
             "type": "bitmap",
             "file": "jakubprefix:prefix/gracz.png",
             "ascent": 7,
