@@ -6,9 +6,13 @@ Pierwym krokiem będzie utworzenie stworzenie textur, możesz je zrobic za pomoc
 # Dla przykładu stworze 2 proste textury, gracza, oraz vipa:
 
 W przypadku rangi gracza użyłem wymiarów:
-70x18 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/70f11fc6-0a9e-44d4-b2bc-a34dba74e038)
+70x18 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/1fbb9718-714c-49bc-9c3f-8ff79b628205)
+
 W przypadku vipa użyłem wymiarów:
-40x18 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/d5b685c7-4698-480b-baba-d99153eccd83)
+40x18
+
+![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/8e267367-bf99-4edf-b69b-a32b913588ce)
+
 
 Tak, wiem, że to nie jest najładniejsze...
 
