@@ -1,7 +1,7 @@
 # Jak zrobić custom prefixy na serwerze minecraft za pomocą Resource Packa?
 
 Jest to bardzo proste, a co pewnie ważne dla dużego grona osób, nie potrzeba do tego żadnego pluginu!
-Pierwym krokiem będzie utworzenie stworzenie textur, możesz je zrobic za pomocą dowolnego programu graficznego.
+Pierwszym krokiem będzie utworzenie stworzenie textur, możesz je zrobic za pomocą dowolnego programu graficznego.
 
 # Dla przykładu stworze 2 proste textury, gracza, oraz vipa:
 
