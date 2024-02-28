@@ -88,7 +88,7 @@ resource-pack=https://download.mc-packs.net/pack/347a920a440a682caeaaaecf4cdecbb
 
 Po zapisaniu zmian restartujemy serwer.
 
-Teraz jedynie co nam zostało to ustwienie prefixu dla wybranej rangi, w tym celu przechodzimy do pliku w naszym Resource Packu: assets/minecraft/font i kopiujemy znak który wcześniej wybraliśmy, teraz go wystarczy wpisać komendę:
+Teraz jedynie co nam zostało to ustwienie prefixu dla wybranej rangi, w tym celu przechodzimy do pliku w naszym Resource Packu: assets/minecraft/font i kopiujemy znak który wcześniej wybraliśmy, teraz wystarczy wpisać komendę:
 /lp group ranga meta setprefix 101 "&f(znak specjalny) " i gotowe!
 
 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/1291f328-7de8-4757-a6c7-b4ae898eb7b9)
