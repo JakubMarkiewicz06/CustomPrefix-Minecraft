@@ -43,7 +43,7 @@ Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ci
 ```
 # Dobrze, a więc z tworzenia Resource Packa to już tyle!
 
-Teraz musimy wrzucić nasz Resource Pack na hosnting, w moim przypadku to będzie strona: https://mc-packs.net/ 
+Teraz musimy wrzucić nasz Resource Pack na hosting, w moim przypadku to będzie strona: https://mc-packs.net/ 
 **Pamiętaj aby Resource Pack był zapakowany w pliku .zip!!**
 
 Po wrzuceniu Resource Packa na hosting wchodzimy teraz do plików serwera minecraft i szukamy pliku: server.properties, po odpaleniu go interesują nas 2 linijki:
