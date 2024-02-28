@@ -22,9 +22,8 @@ Pobierasz Resource Packa którego wysłałem wyżej, otwierasz go i przechodzisz
 Kolejnym krokiem będzie przejście do pliku "default.json" którego znajdziesz w: assets/minecraft/font i go otwierasz
 
 Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ciebie obraz, możesz do tego celu użyć dowolnej czcionki, lub emotki, tak naprawdę to to nie ma znaczenia, ważne żebyś się trzymał tego formatu co ja:
-
+```
 {
-
     "providers": [
         {
             "type": "bitmap",
@@ -41,7 +40,7 @@ Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ci
         }
     ]
 }
-
+```
 # Dobrze, a więc z tworzenia Resource Packa to już tyle!
 
 Teraz musimy wrzucić nasz Resource Pack na hosnting, w moim przypadku to będzie strona: https://mc-packs.net/ 
