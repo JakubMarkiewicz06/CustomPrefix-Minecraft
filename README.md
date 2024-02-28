@@ -24,6 +24,7 @@ Kolejnym krokiem będzie przejście do pliku "default.json" którego znajdziesz 
 Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ciebie obraz, możesz do tego celu użyć dowolnej czcionki, lub emotki, tak naprawdę to to nie ma znaczenia, ważne żebyś się trzymał tego formatu co ja:
 
 {
+
     "providers": [
         {
             "type": "bitmap",
