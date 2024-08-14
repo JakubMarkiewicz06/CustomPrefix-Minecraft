@@ -50,7 +50,7 @@ Znajdziesz w nim text w którym możesz podmienić dany znak na wybrany przez ci
 # Na czym polegają linie: "ascent", oraz "height"?
 
 
-Odpowiadają one za wielkość i wysokość wyświetlanego obrazu (zalecana wartość 7/8)
+Odpowiadają one za wielkość i położenie wyświetlanego obrazu (zalecana wartość 7/8)
 
 Domyślna wartość w moim Resource Packu:
 
