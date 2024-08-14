@@ -3,7 +3,7 @@
 Jest to bardzo proste, a co pewnie ważne dla dużego grona osób, nie potrzeba do tego żadnego pluginu!
 Pierwszym krokiem będzie stworzenie textur, możesz je zrobic za pomocą dowolnego programu graficznego.
 
-Maksymalny wymiar pliku: 240x240 
+Maksymalny wymiar pliku: ~~240x240~~ [ Minecraft coś zmieniał, znajdź samemu. Później zaktualizuje] 
 
 # Dla przykładu stworze 2 proste textury, gracza, oraz vipa:
 
