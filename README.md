@@ -97,8 +97,10 @@ Teraz jedynie co nam zostało to ustwienie prefixu dla wybranej rangi, w tym cel
 ![obraz](https://github.com/JakubMarkiewicz06/CustomPrefix-Minecraft/assets/95700388/811b8223-762e-49eb-9ca0-f4983e28397c)
 
 
-# Dodatkowa informacja
+# Dodatkowe informacje
 Jest szansa, na to, że gracze odkryją znak specjalny którego uzyłeś do zmiany prefixu i będą nim spamić, w takim wypadku jedynie wystarczy użyć dowolnego pluginu na blokadę słów, np [chatmanagera](https://www.spigotmc.org/resources/chat-manager-1-8-1-20-30-features-and-40-commands.52245/ )
+
+Jeżeli chcesz, aby gracze ładowali texturepack już z poziomu serwera proxy to zainstaluj plugin [forcepack](https://github.com/SamB440/ForcePack/releases). Przydatne, jeżeli masz parę serwerów na sieci i nie chcesz aby gracze ładowali txt za każdym wyjściem/wejściem z trybu. 
 
 
 
